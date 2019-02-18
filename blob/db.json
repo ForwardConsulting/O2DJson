@@ -1,7 +1,0 @@
-{
-  "hierarchies": [
-    { "id": 1, "parentId": null, "code": "Duplex", "description": "Duplex..." },
-    { "id": 2, "parentId": 1, "code": "DW300", "description": "DW300..." },
-    { "id": 3, "parentId": 2, "code": "DW300-01", "description": "DW300-01..." }
-  ] 
-}
