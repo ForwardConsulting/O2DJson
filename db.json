@@ -1,16 +1,16 @@
 {
-    hierarchies: [
+    "hierarchies": [
         {
-            id: 1,
-            parentId: null,
-            code: "Duplex",
-            description: "Duplex ......",
-            properties: [
+            "id": 1,
+            "parentId": null,
+            "code": "Duplex",
+            "description": "Duplex ......",
+            "properties": [
                 {
-                    propertyType: "p1" 
+                    "propertyType": "p1" 
                 },
                 {
-                    propertyType: "p2"
+                    "propertyType": "p2"
                 },
             ]
         } 
