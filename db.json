@@ -1,0 +1,56 @@
+{
+    hierarchies: [
+        {
+            id: 1,
+            parentId: null,
+            code: "Duplex",
+            description: "Duplex ......",
+            properties: [
+                {
+                    propertyType: 'p1' 
+                },
+                {
+                    propertyType: 'p2' 
+                },
+            ]
+        },
+        {
+            id: 2,
+            parentId: 1,
+            code: "DW300",
+            description: "DW300 ......",
+            properties: [
+                {
+                    propertyType: 'p1',
+                    value: 'DW'
+                },
+                {
+                    propertyType: 'p2',
+                    value: '300'
+                },
+                {
+                    propertyType: 'p3' 
+                }
+            ]
+        },
+        {
+            id: 3,
+            parentId: 2,
+            code: "DW300-01",
+            description: "DW300-01......",
+            properties: [
+                {
+                    propertyType: 'p1',
+                    value: 'DW'
+                },
+                {
+                    propertyType: 'p2',
+                    value: '300'
+                },
+                {
+                    propertyType: 'p3' 
+                }
+            ]
+        }
+    ]
+}
